@@ -1,7 +1,7 @@
 # CMSC355-Assignment2
 # Assignment 2 - Grade Calculator Android App
 Write an Android App called Grade Calculator determines a final course grade made up of weighted categories of grades. 
-###Grading:
+### Grading:
 
 |Category	| % weight |
 |---------| :---: |
