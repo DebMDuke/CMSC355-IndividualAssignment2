@@ -1,5 +1,5 @@
 # CMSC355-Assignment2
-#Assignment 2 - Grade Calculator Android App
+# Assignment 2 - Grade Calculator Android App
 Write an Android App called Grade Calculator determines a final course grade made up of weighted categories of grades. 
 ###Grading:
 
@@ -10,7 +10,7 @@ Write an Android App called Grade Calculator determines a final course grade mad
 |Midterm Exam	| 20|
 |Final Exam	| 30|
 
-###Grading scheme:
+### Grading scheme:
 
 |Letter Grade|Overall %|
 | :---: |----------|
