@@ -27,9 +27,9 @@ The app will display an image of your choice and specific identifying informatio
 
 Your program will allow the user to enter the points earned and points possible for each of the categories shown above. For example:
    		
-         `Sara Student`
+  `Sara Student`
   
-  `CMSC 355, Spring 2019`
+  `CMSC 355, Spring 2020`
    
 `Enter the Individual Assignment points earned: 		_______`
 
