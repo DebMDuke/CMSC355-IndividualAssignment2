@@ -24,6 +24,7 @@ The calculations are based on the number of points earned in each of the four ca
 The app will display an image of your choice and specific identifying information that includes the following:
 * your name
 * the course number and semester
+
 Your program will allow the user to enter the points earned and points possible for each of the categories shown above. For example:
    		
          `Sara Student`
