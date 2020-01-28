@@ -21,8 +21,9 @@ Write an Android App called Grade Calculator determines a final course grade mad
 |F: | < 60%|
 
 The calculations are based on the number of points earned in each of the four categories.  Therefore, your program will prompt the user for the points earned and the points possible in each category; calculate the final grade as a percentage of the points possible; and display the result.  The number displayed should be formatted in fixed-point notation, with one decimal point of precision. In addition, display what letter grade (on a 10-point scale) corresponds to the calculated value.
-The app will display an image of your choice and specific identifying *your name
-*the course number and semester
+The app will display an image of your choice and specific identifying information that includes the following:
+* your name
+* the course number and semester
 Your program will allow the user to enter the points earned and points possible for each of the categories shown above. For example:
    		
          `Sara Student`
