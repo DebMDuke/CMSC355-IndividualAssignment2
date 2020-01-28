@@ -1,4 +1,4 @@
-# CMSC355-Assignment2
+# CMSC355-IndividualAssignment2
 # Assignment 2 - Grade Calculator Android App
 Write an Android App called Grade Calculator determines a final course grade made up of weighted categories of grades. 
 ### Grading:
@@ -7,8 +7,8 @@ Write an Android App called Grade Calculator determines a final course grade mad
 |---------| :---: |
 |Individual Assignments	| 20|
 |Team Project	| 30|
-|Midterm Exam	| 20|
-|Final Exam	| 30|
+|Midterm Exam	| 30|
+|Final Exam	| 20|
 
 ### Grading scheme:
 
@@ -23,7 +23,7 @@ Write an Android App called Grade Calculator determines a final course grade mad
 The calculations are based on the number of points earned in each of the four categories.  Therefore, your program will prompt the user for the points earned and the points possible in each category; calculate the final grade as a percentage of the points possible; and display the result.  The number displayed should be formatted in fixed-point notation, with one decimal point of precision. In addition, display what letter grade (on a 10-point scale) corresponds to the calculated value.
 The app will display an image of your choice and specific identifying *your name
 *the course number and semester
-Your program will allow the user to enter the points earned and points possible for each of the categories shown above. 
+Your program will allow the user to enter the points earned and points possible for each of the categories shown above. For example:
    		
          `Sara Student`
   
